@@ -33,7 +33,7 @@ Multiple approaches being investigated:
 
 ## Experimental Setup
 
-The system is being evaluated through a rigorous experimental protocol:
+The system is being evaluated through an experimental protocol:
 1. Train/validate/test split with stratification by diagnosis
 2. Separate evaluation of each modality independently
 3. Comparative analysis of fusion strategies
