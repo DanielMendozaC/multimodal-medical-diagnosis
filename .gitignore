@@ -20,6 +20,8 @@ env/
 venv/
 
 # Data files
+data/
+processed_data/
 *.csv
 *.jpg
 *.jpeg
