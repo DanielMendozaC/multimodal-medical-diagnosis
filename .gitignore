@@ -1,2 +1,38 @@
-data/
-data/
+# Byte-compiled / optimized / DLL files
+__pycache__/
+*.py[cod]
+*$py.class
+
+# Distribution / packaging
+dist/
+build/
+*.egg-info/
+
+# Unit test / coverage reports
+htmlcov/
+.tox/
+.coverage
+
+# Environment
+.env
+.venv
+env/
+venv/
+
+# Data files
+*.csv
+*.jpg
+*.jpeg
+*.png
+*.h5
+*.npz
+*.zip
+
+# Model files
+*.pth
+*.pt
+*.weights
+
+# Logs
+logs/
+*.log
